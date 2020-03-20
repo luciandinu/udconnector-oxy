@@ -2,7 +2,7 @@
 Contributors: luciandinu
 Donate link: 
 Tags: oxygen, page builder, editor, utility
-Requires at least: 4.7
+Requires at least: 5.2.4
 Tested up to: 5.3.2
 Stable tag: 0.1.3
 Requires PHP: 5.6
